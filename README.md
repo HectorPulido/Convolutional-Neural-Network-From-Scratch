@@ -24,6 +24,8 @@ Just Download it and open as project
 - https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw
 - You can also look at the generalized Example of This 
 - https://github.com/HectorPulido/Vectorized-multilayer-neural-network
+- Or The monolayer Example (Simpler)
+- https://github.com/HectorPulido/Simple-vectorized-mono-layer-perceptron
 - Or Look at a Non Vectorized multilayer perceptronExample
 - https://github.com/HectorPulido/Multi-layer-perceptron
 

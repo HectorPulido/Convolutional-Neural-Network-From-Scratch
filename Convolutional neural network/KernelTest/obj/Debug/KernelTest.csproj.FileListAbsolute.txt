@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\bin\Debug\KernelTest.exe.config
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\bin\Debug\KernelTest.exe
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\bin\Debug\KernelTest.pdb
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\obj\Debug\KernelTest.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\obj\Debug\KernelTest.exe
+C:\Users\ASUS\Desktop\Convolution\KernelTest\KernelTest\obj\Debug\KernelTest.pdb
+C:\Users\ASUS\Downloads\FromGithub\Convolutional-Neural-Network-From-Scratch\Convolutional neural network\KernelTest\bin\Debug\KernelTest.exe.config
+C:\Users\ASUS\Downloads\FromGithub\Convolutional-Neural-Network-From-Scratch\Convolutional neural network\KernelTest\obj\Debug\KernelTest.exe
+C:\Users\ASUS\Downloads\FromGithub\Convolutional-Neural-Network-From-Scratch\Convolutional neural network\KernelTest\obj\Debug\KernelTest.pdb
